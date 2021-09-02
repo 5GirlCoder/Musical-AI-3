@@ -1,0 +1,44 @@
+body
+{
+    background-color: #DADDD8;
+    font-family: 'Klee One', cursive;
+    color: #292929;
+}
+
+.headingH3
+{
+    background-color: #EEF0F2;
+    margin-top: 0;
+    width: 100%;
+    padding: 20px;
+    box-shadow: 5px 5px 5px #8F8F8F;
+}
+ 
+.note
+{
+    font-size: 20px;
+    bottom: 0;
+    line-height: 3;
+    width: 100%;
+    background-color: #EEF0F2;
+    position: fixed;
+    line-height: 3;
+    text-align: center;
+}
+
+#SongNameH2
+{
+    background-color: #EEF0F2;
+    padding: 20px;
+    border-radius: 20px;
+    width: 200px;
+    box-shadow: 5px 5px 5px #8F8F8F;
+}
+
+canvas
+{
+    border: 5px double #ECEBE4;
+    border-radius: 20px;
+    background-color: #FAFAFF;
+    margin-top: 30px;
+}
